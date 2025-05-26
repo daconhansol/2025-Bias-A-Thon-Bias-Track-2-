@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Pipeline Diagram](./pipeline_diagram.svg)
+![image](https://github.com/user-attachments/assets/f04219bb-4aa1-4438-b6ee-3168d7dff7a8)
 
 </div>
 
